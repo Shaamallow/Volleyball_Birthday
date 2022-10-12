@@ -7,5 +7,5 @@ Project to figure out how to handle Linux Automatisation of task with Crontab
 
 Useful Links : 
 - [CRONTAB BUILDER](https://crontab.guru/)
-- [TUTORIAL] (https://installati.one/ubuntu/22.04/cron/)
+- [TUTORIAL](https://installati.one/ubuntu/22.04/cron/)
 
